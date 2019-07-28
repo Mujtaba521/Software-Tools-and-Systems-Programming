@@ -1,0 +1,34 @@
+Script started on Wed 05 Dec 2018 12:01:59 AM EST
+[?1034hbash-4.2$ pwd
+/gaul/s1/student/2018/mkhan787/Courses/CS2211a/Asns/assignment5
+bash-4.2$ date
+Wed Dec  5 00:02:01 EST 2018
+bash-4.2$ who am i
+mkhan787 pts/10       2018-12-05 00:01
+bash-4.2$ make
+cc -o mymatrix main.o matrix.o bstree.o datatype.o
+bash-4.2$ ./mymatrix [K[K[K[K[K[K[K[K[K[K[Kls
+bstree.c  bstree.o    datatype.h  main.c  makefile  matrix.h  mymatrix
+bstree.h  datatype.c  datatype.o  main.o  matrix.c  matrix.o  run
+bash-4.2$ ./mymatrix 
+Enter two strings, in the format str1 str2. Enter 0 0 to stop.
+a a
+Enter two strings, in the format str1 str2. Enter 0 0 to stop.
+b b
+Enter two strings, in the format str1 str2. Enter 0 0 to stop.
+c c
+Enter two strings, in the format str1 str2. Enter 0 0 to stop.
+d d
+Enter two strings, in the format str1 str2. Enter 0 0 to stop.
+b b
+Enter two strings, in the format str1 str2. Enter 0 0 to stop.
+0 0
+String 1 String 2 Occurance
+ a a 1 
+ b b 2 
+ c c 1 
+ d d 1 
+bash-4.2$ exit
+exit
+
+Script done on Wed 05 Dec 2018 12:02:28 AM EST
